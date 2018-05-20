@@ -1,50 +1,50 @@
 {
   "shuijiao":{
-    "weight": 0.2,
-    "name": "肥仔快乐水"
+    "weight": 20,
+    "name": "水饺"
   },
   "tieban":{
-    "weight": 0.15,
+    "weight": 15,
     "name": "铁板"
   },
   "jipaifan":{
-    "weight": 0.2,
+    "weight": 20,
     "name": "鸡排饭"
   },
   "erlou":{
-    "weight": 0.2,
+    "weight": 20,
     "name": "二楼"
   },
   "malatang":{
-    "weight": 0.15,
+    "weight": 15,
     "name": "麻辣烫"
   },
   "gaifan":{
-    "weight": 0.2,
+    "weight": 20,
     "name": "盖饭"
   },
   "yiloutaocan":{
-    "weight": 0.05,
+    "weight": 5,
     "name": "一楼套餐"
   },
   "xiaohuoguo":{
-    "weight": 0.1,
+    "weight": 10,
     "name": "小火锅"
   },
   "kaoya":{
-    "weight":0.1,
+    "weight":10,
     "name": "烤鸭"
   },
   "yougou":{
-    "weight":0.05,
+    "weight":5,
     "name": "优购"
   },
   "xiangguo":{
-    "weight":0.03,
+    "weight":3,
     "name": "香锅"
   },
   "yuhuadengxian":{
-    "weight":0.01,
-    "name": "羽化登仙"
+    "weight":1,
+    "name": "guna"
   }
 }
